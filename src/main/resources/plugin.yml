@@ -1,0 +1,6 @@
+name: Stellarobjects
+version: @version@
+main: xyz.atrius.stellarobjects.Stellarobjects
+api-version: 1.16
+prefix: StellarObjects
+authors: [Atri]
